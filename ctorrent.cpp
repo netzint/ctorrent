@@ -381,6 +381,7 @@ void usage()
   fprintf(stderr,"%s   Original code Copyright: YuHong(992126018601033)\n",
     PACKAGE_STRING);
   fprintf(stderr,"WARNING: THERE IS NO WARRANTY FOR CTorrent. USE AT YOUR OWN RISK!!!\n");
+  fprintf(stderr,"Updated by Netzint GmbH support bigger torrent files!\n");
   fprintf(stderr,"\nGeneral Options:\n");
   fprintf(stderr, "%-15s %s\n", "-h/-H", "Show this message");
   fprintf(stderr, "%-15s %s\n", "-x",
